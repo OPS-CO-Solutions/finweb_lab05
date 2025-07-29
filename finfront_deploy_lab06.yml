@@ -5,7 +5,7 @@ pool:
 
 variables:
   - name: projectName
-    value: 'Training-Solution-Lab05'              # <-- Update this
+    value: 'Training-Solution-Lab06'              # <-- Update this
   - name: buildPipelineName
     value: 'finfront_build'       # <-- Update this
   - name: artifactName
